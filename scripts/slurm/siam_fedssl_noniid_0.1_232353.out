@@ -1,0 +1,12 @@
+wandb: Currently logged in as: crazyboy9103. Use `wandb login --relogin` to force relogin
+wandb: WARNING Tried to auto resume run with id 20221029_144857_251 but id 20221029_144857_257 is set.
+wandb: wandb version 0.13.4 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.13.1
+wandb: Run data is saved locally in /home/kwangyeongill/FedSSL_new/wandb/run-20221029_144900-20221029_144857_257
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run simsiam_FedSSL_noniid_ema_0.1
+wandb: ⭐️ View project at https://wandb.ai/crazyboy9103/Fed
+wandb: 🚀 View run at https://wandb.ai/crazyboy9103/Fed/runs/20221029_144857_257
+Files already downloaded and verified
+Files already downloaded and verified
