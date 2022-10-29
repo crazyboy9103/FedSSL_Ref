@@ -25,3 +25,6 @@ wandb: ⭐️ View project at https://wandb.ai/crazyboy9103/Fed
 wandb: 🚀 View run at https://wandb.ai/crazyboy9103/Fed/runs/20221029_144856_442
 Files already downloaded and verified
 Files already downloaded and verified
+
+ | Server Trained : test_loss 1.4785559177398682 top1 46.85% top5 91.41% |
+
